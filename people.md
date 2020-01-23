@@ -31,7 +31,7 @@
 **Alumni M.Tech**
 
 2019
-* Arun Singh Tomar
+* Arun Singh Tomar **Current Designation-** *Design Verification Engineer, Marvell Semiconductor*
 * Mili Lavania
 * Abhishek Barma
 * Joydeep Devnath
