@@ -35,4 +35,4 @@ Palaj, Gandhinagar-382355, GUJARAT
 * Reviewer for National Journals: Sadhana Academy proceedings in Engineering Science (SADH)
 * Steering Committee member & PC member – International Symposium on Asynchronous Circuits and Systems ASYNC 2015, ASYNC 2016, ASYNC 2017
 * Techincal program committee member - International Conference on VLSI Design and Embedded Systems – VLSI’15, VLSI’18, VLSI’19, VLSI Design and Test – VDAT’17, VDAT’19, Iternational Conference INDICON’13
-* External Examiner: MTech: SVNIT Surat, Parul institute Vadodara; PhD:SVNIT Sural, Nirma University
+* External Examiner: MTech: SVNIT Surat, Parul institute Vadodara; PhD:SVNIT Surat, Nirma University
