@@ -26,6 +26,10 @@ menu:
   - text: People
     link: /people
     icon: ""
+    
+  - text: Teaching
+    link: /teaching
+    icon: ""
 
   - text: Contact Me
     link: /contact
