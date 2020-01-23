@@ -14,8 +14,8 @@
 * Ankita Nandi
 * Jitesh Sah
 * Gyanendra Tiwari
-* Diptesh Dutta
-* Suurendra Maurya
+* Diptesh Datta
+* Surendra Maurya
 
 **Current B.Tech**
 * Sumit Walia
