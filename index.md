@@ -4,10 +4,14 @@ layout: default
 
 # Joycee Mekie
 
-Assistant Professor, Electrical Engineering </br >
-Email: joycee@iitgn.ac.in < /br >
-Office: Academic Block 4/320 | Nano Devices and Circuits Laboratory (NanoDC Lab) </br >
-Address: Indian Institute of Technology Gandhinagar </br >
+Assistant Professor, Electrical Engineering
+
+Email: joycee@iitgn.ac.in
+
+Office: Academic Block 4/320 | Nano Devices and Circuits Laboratory (NanoDC Lab)
+
+Address: Indian Institute of Technology Gandhinagar 
+
 Palaj, Gandhinagar-382355, GUJARAT
 
 # Research Interest
