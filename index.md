@@ -26,7 +26,7 @@ Palaj, Gandhinagar-382355, GUJARAT
 * B.E., M. S. University of Baroda, 1997, Department of Electrical Engineering, Electrical Honours Diploma in Systems Management, 3-year program, NIIT, 1996
 
 # Professional Experience
-* Assistant Professor, Dec 2009, Electrical Engineering, IITGN
+* Assistant Professor, Dec 2009, Electrical Engineering, IIT Gandhinagar
 * Lecturer, Electrical Engg., V. V. P Engg. College, Rajkot, Gujarat, 1998-1999
 * Lecturer, Electrical Engg., S. V. M. I. T. Engg. College Bharuch, Gujarat, 1999-2000
 * Lecturer, Electrical Engg., S. V. I. T Engg. College, Vasad, Gujarat, 2000-2001
