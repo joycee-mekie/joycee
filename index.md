@@ -29,7 +29,7 @@ Palaj, Gandhinagar-382355, GUJARAT
 * M.E., M. S. University of Baroda, 1999, Department of Electrical Engg., Microprocessor Systems & Applications
 * B.E., M. S. University of Baroda, 1997, Department of Electrical Engineering, Electrical Honours Diploma in Systems Management, 3-year program, NIIT, 1996
 
-# Interest
+# Research Interest
 * Approximate Computing
 * Asynchronous Design
 * Low Power Memory Systems
