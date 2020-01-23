@@ -13,9 +13,9 @@
 
 * Ankita Nandi
 * Jitesh Sah
-* Gyanendra Tiwari
-* Diptesh Datta
-* Surendra Maurya
+* Gyanendra Tiwari - *Place at NXP Semiconductors*
+* Diptesh Datta - *Place at Redpine Signals*
+* Surendra Maurya - *Placed at SiliConch Systems*
 
 **Current B.Tech**
 * Sumit Walia
