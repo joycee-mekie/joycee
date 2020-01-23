@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Christian Ezeani"]
   spec.email         = ["christian.ezeani@gmail.com"]
 
-  spec.summary       = "A quick and simple responsive developer portfolio theme for jekyll sites and GitHub Pages."
+  spec.summary       = "Home"
   spec.homepage      = "https://github.com/christianezeani/panthera-jekyll"
   spec.license       = "MIT"
 
