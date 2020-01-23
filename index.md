@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# JOYCEE MEKIE
+# Joycee Mekie
 
 Assistant Professor, Electrical Engineering</br >
 Email: joycee@iitgn.ac.in</br >
