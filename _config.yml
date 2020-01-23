@@ -23,6 +23,10 @@ menu:
     link: /projects
     icon: ""
 
+  - text: People
+    link: /people
+    icon: ""
+
   - text: Contact Me
     link: /contact
     icon: ""
