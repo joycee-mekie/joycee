@@ -51,7 +51,7 @@
 * Omkar Pujari - *Working as Digital Design Engineer at Analog Devices*
 
 2015
-* Fathima Sinin - *Working as Air Traffic Controller at Airport Authority of India *
+* Fathima Sinin - *Working as Air Traffic Controller at Airport Authority of India*
 * Chandrashekhar Tunga - *Working as Senior Lead Engineer at Qualcomm*
 
 2014
