@@ -6,7 +6,7 @@ layout: default
 
 - Assistant Professor, Electrical Engineering
 - Email: joycee@iitgn.ac.in
-- Office: Academic Block 4/320 | Nano Devices and Circuits Laboratory (NanoDC Lab)
+- Office: Academic Block 4/320 \| Nano Devices and Circuits Laboratory (NanoDC Lab)
 - Address: Indian Institute of Technology Gandhinagar
 Palaj, Gandhinagar-382355, GUJARAT
 
