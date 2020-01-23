@@ -23,12 +23,12 @@ Palaj, Gandhinagar-382355, GUJARAT
 
 # Professional Experience
 * Assistant Professor, Dec 2009, Electrical Engineering, IIT Gandhinagar
-* Lecturer, Electrical Engg., V. V. P Engg. College, Rajkot, Gujarat, 1998-1999
-* Lecturer, Electrical Engg., S. V. M. I. T. Engg. College Bharuch, Gujarat, 1999-2000
-* Lecturer, Electrical Engg., S. V. I. T Engg. College, Vasad, Gujarat, 2000-2001
-* Teaching Assistant, IIT Bombay, Mumbai, 2001-2005
+* Assistant Professor, Electrical Engg., M.S. University of Baroda, Gujarat, 2007-2009
 * Temporary Senior Research Assistant, 2005-2007
-* Reader (Assistant Professor), Electrical Engg., M.S. University of Baroda, Gujarat, 2007-2009
+* Teaching Assistant, IIT Bombay, Mumbai, 2001-2005
+* Lecturer, Electrical Engg., S. V. I. T Engg. College, Vasad, Gujarat, 2000-2001
+* Lecturer, Electrical Engg., S. V. M. I. T. Engg. College Bharuch, Gujarat, 1999-2000
+* Lecturer, Electrical Engg., V. V. P Engg. College, Rajkot, Gujarat, 1998-1999
 
 # Professional Activities
 * Reviewer for International Journals: IEEE Design and Test, IEEE Sensors, IEEE Transactions on Circuits and Systems II, Microelectronics reliability journal
