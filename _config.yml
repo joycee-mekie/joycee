@@ -19,6 +19,10 @@ menu:
     link: /publications
     icon: ""
 
+  - text: Projects
+    link: /projects
+    icon: ""
+
   - text: Contact Me
     link: /contact
     icon: ""
