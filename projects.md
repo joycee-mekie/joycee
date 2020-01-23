@@ -1,7 +1,4 @@
 
----
----
-
 # Projects
 
 **Ongoing Projects**
