@@ -7,7 +7,7 @@
 * Chandan Kumar Jha
 * Pramod Kumar
 * Tom Glint Isaac
-* Kailash Prasad
+* <a target="_blank" href="https://constantnit.github.io/kailashprasad/">Kailash Prasad </a>
 
 **Current M.Tech**
 
