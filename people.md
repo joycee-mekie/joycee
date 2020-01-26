@@ -4,9 +4,9 @@
 
 * Sneha N Ved
 * Neelam Surana
-* Chandan Kumar Jha
+* <a target="_blank" href="https://chajha@github.io">Chandan Kumar Jha</a>
 * Pramod Kumar
-* Tom Glint Isaac
+* <a target="_blank" href="https://sites.google.com/view/tomglint/home">Tom Glint Isaac</a>
 * <a target="_blank" href="https://constantnit.github.io/kailashprasad/">Kailash Prasad </a>
 
 **Current M.Tech**
