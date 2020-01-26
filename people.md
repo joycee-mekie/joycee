@@ -4,7 +4,7 @@
 
 * Sneha N Ved
 * Neelam Surana
-* <a target="_blank" href="https://chajha@github.io">Chandan Kumar Jha</a>
+* <a target="_blank" href="https://chajha.github.io">Chandan Kumar Jha</a>
 * Pramod Kumar
 * <a target="_blank" href="https://sites.google.com/view/tomglint/home">Tom Glint Isaac</a>
 * <a target="_blank" href="https://constantnit.github.io/kailashprasad/">Kailash Prasad </a>
