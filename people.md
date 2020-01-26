@@ -2,10 +2,10 @@
 
 **Current Ph.D. Students**
 
-* Sneha N Ved
-* Neelam Surana
+* <a target="_blank" href="https://nz.linkedin.com/in/sneha-ved">Sneha N Ved</a> 
+* <a target="_blank" href="https://in.linkedin.com/in/neelam-surana-5967a7137">Neelam Surana</a> 
 * <a target="_blank" href="https://chajha.github.io">Chandan Kumar Jha</a>
-* Pramod Kumar
+* <a target="_blank" href="https://www.linkedin.com/in/pramod-kumar-bharti-7b15b4103/?originalSubdomain=in">Pramod Kumar</a>
 * <a target="_blank" href="https://sites.google.com/view/tomglint/home">Tom Glint Isaac</a>
 * <a target="_blank" href="https://constantnit.github.io/kailashprasad/">Kailash Prasad </a>
 
