@@ -36,7 +36,7 @@
 
 **Journals**
 
-1.1. Aketi, S. Gupta, H. Cheng, J. Mekie and P. A. Beerel, “SERAD: Soft Error Resilient synchronous Design using Bundled Data Protocol,” in IEEE Transactions on Circuits and Systems I: Regular Papers, 2020. [accepted, 25th Dec, 2019]	 
+1. Aketi, S. Gupta, H. Cheng, J. Mekie and P. A. Beerel, “SERAD: Soft Error Resilient synchronous Design using Bundled Data Protocol,” in IEEE Transactions on Circuits and Systems I: Regular Papers, 2020. [accepted, 25th Dec, 2019]	 
 2. P. K. Bharti, N. Surana and J. Mekie, "Hetro8T: power and area efficient approximate  heterogeneous 8T SRAM for H.264 video decoder," in IET Computers & Digital Techniques, vol. 13, no.6, pp. 505-513, 2019.
 3. Surana, Neelam, Pramod Bharti, and Joycee Mekie. "Hetro8T: Power and Area Efficient ApproximateHeterogeneous 8T SRAM for H. 264 Video Decoder." IET Computers & Digital Techniques (2019).
 4. Ved, Sneha N., Sarabjeet Singh, and Joycee Mekie. "PANE: Pluggable asynchronous network-on-chip simulator." ACM Journal on Emerging Technologies in Computing Systems (JETC) 15.1 (2019): 7.
