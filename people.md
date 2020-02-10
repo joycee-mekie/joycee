@@ -37,25 +37,25 @@
 * Joydeep Devnath - Thesis Title **An approach towards building Energy Efficient Architectures for Neural Networks** - *Working as Junior Research Fellow at IIT Gandhinagar*
 
 2018
-* Shubhanshu Gupta - *Working as Design Verification Engineer at NXP Semiconductor*
-* Ishant Anand - *Working as Senior Engineer at MediaTek*
-* Smriti - *Working as Engineer at MediaTex*
-* Vishwanath - *Working as Senior Engineer at MediaTek*
+* Shubhanshu Gupta - Thesis Title **Single and Double Node Upset Hardened Flip-Flops for Space Applications** - *Working as Design Verification Engineer at NXP Semiconductor*
+* Ishant Anand - Thesis Title **Design of Radiation Hardened Memories and Memory Compiler** - *Working as Senior Engineer at MediaTek*
+* Smriti Gupta - Thesis Title **** - **Building of Radiation Hardened Processor Designs** - *Working as Engineer at MediaTex*
+* Vishwanath Hiremath - Thesis Title **Approximate Neural Networks on FPGA** -  *Working as Senior Engineer at MediaTek*
 
 2017
-* Hemal Shah - *Working as Design Verification Engineer at Marvell Semiconductor*
-* Neha Kumar - *Working as Senior Tapeout Engineer at GlobalFoundries*
+* Hemal Shah - Thesis Title **Soft Error Tolerant Designs using Guarded Dual Rail Logic** - *Working as Design Verification Engineer at Marvell Semiconductor*
+* Neha Kumar - Thesis Title **Interfaces for Ratiochronous Network on Chips** - *Working as Senior Tapeout Engineer at GlobalFoundries*
 
 2016
-* Raminder Kaur - *Working as Digital Verification Engineer at Texas Instruments*
-* Omkar Pujari - *Working as Digital Design Engineer at Analog Devices*
+* Raminder Kaur - Thesis Title **Guarded Dual Rail Logic for Soft Error Tolerant Standard Cell Library** - *Working as Digital Verification Engineer at Texas Instruments*
+* Omkar Pujari - Thesis Title **Study of Variability and Technology Scaling on  Synchronizers and Design of Metastable-hard Synchronizers** - *Working as Digital Design Engineer at Analog Devices*
 
 2015
-* Fathima Sinin - *Working as Air Traffic Controller at Airport Authority of India*
-* Chandrashekhar Tunga - *Working as Senior Lead Engineer at Qualcomm*
+* Fathima Sinin - Thesis Title **Design and implementation of efficient neuromorphic architectures** - *Working as Air Traffic Controller at Airport Authority of India*
+* Chandrashekhar Tunga - Thesis Title **** - *Working as Senior Lead Engineer at Qualcomm*
 
 2014
-* Saranya - *Working as SSC at Infosys*
+* Bala Saranya Y - Thesis Title **Evaluating the scaling effects on synchronizers and global interconnects in multi-core SoCs** - *Working as SSC at Infosys*
 
 **Alumni B.Tech**
 
