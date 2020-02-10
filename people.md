@@ -31,10 +31,10 @@
 **Alumni M.Tech**
 
 2019
-* Arun Singh Tomar - *Working as Design Verification Engineer at Marvell Semiconductor*
-* Mili Lavania - *Working as Design Verification Engineer at Marvell Semiconductor*
-* Abhishek Barma - *Working as Silicon Design Engineer at Advanced Micro Devices*
-* Joydeep Devnath - *Working as Junior Research Fellow at IIT Gandhinagar*
+* Arun Singh Tomar - Thesis Title **Configurable Approximate Circuits for Low Power FPGA based Applications** - *Working as Design Verification Engineer at Marvell Semiconductor*
+* Mili Lavania - Thesis Title **Building Energy Efficient Radiation Hardened Memories and Memory Subsystem** - *Working as Design Verification Engineer at Marvell Semiconductor*
+* Abhishek Barma -Thesis Title **High Performance Radiation Hardened Random Access and Content Addressable Memory Designs** - *Working as Silicon Design Engineer at Advanced Micro Devices*
+* Joydeep Devnath - Thesis Title **An approach towards building Energy Efficient Architectures for Neural Networks** - *Working as Junior Research Fellow at IIT Gandhinagar*
 
 2018
 * Shubhanshu Gupta - *Working as Design Verification Engineer at NXP Semiconductor*
